@@ -14,8 +14,8 @@ This repository provides a comprehensive overview of CloudSim, a popular simulat
 9. [References](#references)
 
 ```
-Name - Jude Sam J
-Register Number - 212222040066
+Name - SNEHA HV
+Register Number - 212222040157
 ```
 ## Introduction
 
